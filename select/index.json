@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "朝が降る",
+  "base_artist": "Eve",
+  "createdAt": "2026-02-18T18:37:42.200144Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朝が降る",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_朝が降る_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "朝が降る",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_朝が降る_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asa Ga Furu (朝が降る)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_Asa_Ga_Furu_(朝が降る)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "朝が降る",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/04_朝が降る_Eve_(57).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝が降る",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_朝が降る_Eve.txt"
+    }
+  ]
+}
